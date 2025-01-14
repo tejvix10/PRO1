@@ -1,0 +1,7 @@
+C:\PRO1\PrvaAplikacija\PrvaAplikacija\bin\Debug\PrvaAplikacija.exe.config
+C:\PRO1\PrvaAplikacija\PrvaAplikacija\bin\Debug\PrvaAplikacija.exe
+C:\PRO1\PrvaAplikacija\PrvaAplikacija\bin\Debug\PrvaAplikacija.pdb
+C:\PRO1\PrvaAplikacija\PrvaAplikacija\obj\Debug\PrvaAplikacija.csproj.AssemblyReference.cache
+C:\PRO1\PrvaAplikacija\PrvaAplikacija\obj\Debug\PrvaAplikacija.csproj.CoreCompileInputs.cache
+C:\PRO1\PrvaAplikacija\PrvaAplikacija\obj\Debug\PrvaAplikacija.exe
+C:\PRO1\PrvaAplikacija\PrvaAplikacija\obj\Debug\PrvaAplikacija.pdb
